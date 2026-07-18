@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0649-dota2-senate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -74,9 +75,14 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0933-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
