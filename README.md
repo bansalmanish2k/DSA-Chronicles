@@ -93,4 +93,8 @@
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
