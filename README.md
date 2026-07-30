@@ -29,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1207-unique-number-of-occurrences](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -36,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0394-decode-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0649-dota2-senate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1657-determine-if-two-strings-are-close) |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0007-reverse-integer) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
