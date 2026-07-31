@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0649-dota2-senate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1657-determine-if-two-strings-are-close) |
@@ -63,6 +64,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/2390-removing-stars-from-a-string) |
