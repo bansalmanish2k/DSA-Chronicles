@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0055-jump-game) |
 | [0724-find-pivot-index](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0735-asteroid-collision) |
 | [1207-unique-number-of-occurrences](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1207-unique-number-of-occurrences) |
@@ -16,6 +17,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0055-jump-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -88,6 +90,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0055-jump-game) |
 | [0649-dota2-senate](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0649-dota2-senate) |
 ## Linked List
 |  |
