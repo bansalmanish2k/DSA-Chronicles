@@ -73,6 +73,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -104,8 +105,13 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
