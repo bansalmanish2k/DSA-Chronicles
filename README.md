@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0055-jump-game) |
+| [0509-fibonacci-number](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -75,6 +76,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,4 +117,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0231-power-of-two) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
