@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0055-jump-game) |
+| [0682-baseball-game](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0735-asteroid-collision) |
 | [1207-unique-number-of-occurrences](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1207-unique-number-of-occurrences) |
@@ -61,6 +62,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/2390-removing-stars-from-a-string) |
@@ -69,6 +71,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
