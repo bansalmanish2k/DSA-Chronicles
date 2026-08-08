@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0735-asteroid-collision) |
@@ -88,10 +89,12 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0225-implement-stack-using-queues) |
 | [0649-dota2-senate](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
