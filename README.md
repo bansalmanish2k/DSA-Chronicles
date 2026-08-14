@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0055-jump-game) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0735-asteroid-collision) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0394-decode-string) |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0509-fibonacci-number) |
 ## Backtracking
