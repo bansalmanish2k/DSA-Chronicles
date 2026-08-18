@@ -12,6 +12,7 @@
 | [0682-baseball-game](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0739-daily-temperatures) |
 | [1207-unique-number-of-occurrences](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1207-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1732-find-the-highest-altitude) |
@@ -85,6 +86,7 @@
 | [0503-next-greater-element-ii](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1544-make-the-string-great) |
@@ -149,4 +151,5 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
