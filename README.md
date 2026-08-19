@@ -88,6 +88,7 @@
 | [0735-asteroid-collision](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/2390-removing-stars-from-a-string) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -113,6 +115,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0933-number-of-recent-calls) |
 ## Greedy
 |  |
@@ -152,4 +155,5 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
