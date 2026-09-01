@@ -137,6 +137,7 @@
 | [0007-reverse-integer](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0231-power-of-two) |
+| [0441-arranging-coins](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -156,4 +157,8 @@
 | [0503-next-greater-element-ii](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0901-online-stock-span) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
