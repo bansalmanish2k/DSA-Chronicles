@@ -125,6 +125,7 @@
 ## Linked List
 |  |
 | ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -139,6 +140,7 @@
 | [0231-power-of-two](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Backtracking
 |  |
 | ------- |
