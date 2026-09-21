@@ -125,12 +125,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bansalmanish2k/DSA-Chronicles/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
